@@ -12,7 +12,7 @@
 - ETC  
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=springboot&logoColor=61DAFB" />
 //Java
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
 //JavaScript
 <img src="https://img.shields.io/badge/JavaScript-007396?style=for-the-badge&logo=javascript&logoColor=white">
 
