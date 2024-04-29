@@ -13,9 +13,8 @@
 💠<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">  <img src="https://img.shields.io/badge/intellij-000000?style=flat&logo=intellij%20idea&logoColor=white"> 💠 <img src="https://img.shields.io/badge/mqtt-660066.svg?style=flat&logo=mqtt&logoColor=white" />  <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white"> 💠 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />  
 
 ### 🤔Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qseft16)](https://solved.ac/qseft16)<br/>
 [![Solved.ac
-Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=qseft16)](https://solved.ac/qseft16)
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qseft16)](https://solved.ac/qseft16)
 ### ⚡GitHub State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woonani&show_icons=true&theme=dracula)
 
