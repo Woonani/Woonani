@@ -11,10 +11,7 @@
 #### DBMS  
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white" />  <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=flat&logo=postgresql&logoColor=white" />
 #### Others
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/intellij-000000?style=flat&logo=intellij%20idea&logoColor=white">
-<img src="https://img.shields.io/badge/mqtt-660066.svg?style=flat&logo=mqtt&logoColor=white" />
-<img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white">  
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />  
+💠<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">  <img src="https://img.shields.io/badge/intellij-000000?style=flat&logo=intellij%20idea&logoColor=white"> 💠 <img src="https://img.shields.io/badge/mqtt-660066.svg?style=flat&logo=mqtt&logoColor=white" />  <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white"> 💠 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />  
 
 
 
