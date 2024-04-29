@@ -14,7 +14,8 @@
 
 ### 🤔Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qseft16)](https://solved.ac/qseft16)<br/>
-
+[![Solved.ac
+Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=qseft16)](https://solved.ac/qseft16)
 ### ⚡GitHub State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woonani&show_icons=true&theme=dracula)
 
