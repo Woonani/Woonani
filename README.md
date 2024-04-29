@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woonani&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woonani&show_icons=true&theme=radical)
 
 <!--
