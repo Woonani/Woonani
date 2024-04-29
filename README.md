@@ -4,7 +4,7 @@
 
 ### 🛠️Skills 
 - Programming
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 - Framework  
