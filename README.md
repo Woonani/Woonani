@@ -16,7 +16,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qseft16)](https://solved.ac/qseft16)<br/>
 
 ### ⚡GitHub State
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woonani&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woonani&show_icons=true&theme=dracula)
 
 <!--
 **Woonani/Woonani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
