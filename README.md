@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F7F5F5,100:CDE4AD&height=150&section=header&text=Woonani%20World&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=150&section=header&text=Woonani%20World&fontSize=70" />
 
 ### Hi there 👋
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
